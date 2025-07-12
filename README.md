@@ -3,7 +3,7 @@
 <p align="center">
   A sleek & brainy number guessing game with a glowing AMOLED UI.<br>
   Guess the number between <strong>1–10</strong> in just <strong>3 tries</strong>!<br>
-  Built with ❤️ using <code>customtkinter</code> and styled by <strong>Y7X</strong>.
+  Built with 💗 using <code>customtkinter</code> and styled by <strong>Y7X</strong>.
 </p>
 
 <p align="center">
