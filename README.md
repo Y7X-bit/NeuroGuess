@@ -1,37 +1,45 @@
-<h1 align="center">🧠 NeuroGuess</h1>
+<div align="center">
 
-<p align="center">
-  A sleek & brainy number guessing game with a glowing AMOLED UI.<br>
-  Guess the number between <strong>1–10</strong> in just <strong>3 tries</strong>!<br>
-  Built with 💗 using <code>customtkinter</code> and styled by <strong>Y7X</strong>.
-</p>
+# 🧠 NeuroGuess
 
-<p align="center">
-  <img src="1.png" alt="NeuroGuess Screenshot" width="500">
-</p>
+**Can you outsmart the machine in just 3 tries?**  
+A sleek number-guessing game with glowing vibes and a brainy twist.
 
----
+<img src="assets/1.png" alt="NeuroGuess UI" width="500"/>
 
-## 🚀 Features
-
-- 🎯 Guess the correct number (1–10) in 3 attempts
-- 🖤 Full AMOLED UI – pitch black background
-- ❤️ Pitch red borders, buttons & highlights
-- 🧑‍💻 Smart response with hints and feedback
-- 🔁 Instant replay with Play Again button
-- 🧼 Clean layout, symmetric UI, no clutter
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🎮 What is NeuroGuess?
 
-- Python 3.x
-- [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter)
+NeuroGuess is a fast, fun, and glowed-up take on a classic number game.  
+Built with 💻 Python + `customtkinter`, and dipped in that 🔥 **Y7X AMOLED sauce**.
 
 ---
 
-## 🧪 How to Run
+### ✨ Features
 
-1. Install the dependency:
-   ```bash
-   pip install customtkinter
+- 🔢 **1–10 guessing range** with only **3 chances**
+- 🧠 Smart feedback with hints after each guess
+- 🌑 AMOLED pitch black UI with glowing red accents
+- 🧼 Clean, symmetric layout with centered logic
+- 🔁 Reset anytime to challenge your intuition
+- 🔎 **"Powered by Y7X 💗"** seal of flex
+
+---
+
+### 🛠 Built Using
+
+| Tech             | Why?                       |
+|------------------|----------------------------|
+| `Python`         | Base language              |
+| `customtkinter`  | For that modern, dark UI   |
+
+---
+
+### 🚀 Run it Locally
+
+```bash
+pip install customtkinter
+python NeuroGuess.py
