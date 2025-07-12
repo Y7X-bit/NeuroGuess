@@ -14,7 +14,7 @@ A sleek number-guessing game with glowing vibes and a brainy twist.
 ### 🎮 What is NeuroGuess?
 
 NeuroGuess is a fast, fun, and glowed-up take on a classic number game.  
-Built with 💻 Python + `customtkinter`, and dipped in that 🔥 **Y7X AMOLED sauce**.
+Built with 💻 Python + `customtkinter`, and dipped in that **Y7X AMOLED sauce**.
 
 ---
 
