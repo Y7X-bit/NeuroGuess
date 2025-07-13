@@ -24,6 +24,7 @@ Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 ---
 
+
 ## 🖥️ Installation
 
 > Python 3.9 or later required
