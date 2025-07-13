@@ -1,9 +1,11 @@
 <div align="center">
 
 # 🧠 NeuroGuess
+**🧠 Neural ping-pong online – good luck guessing**
 
-**Can you outsmart the machine in just 3 tries?**  
+Can you outsmart the machine in just 3 tries?
 A sleek number-guessing game with glowing vibes and a brainy twist.
+Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 <img src="assets/1.png" alt="NeuroGuess UI" width="500"/>
 
@@ -11,14 +13,7 @@ A sleek number-guessing game with glowing vibes and a brainy twist.
 
 ---
 
-### 🎮 What is NeuroGuess?
-
-NeuroGuess is a fast, fun, and glowed-up take on a classic number game.  
-Built with 💻 Python + `customtkinter`, and dipped in that **Y7X AMOLED sauce**.
-
----
-
-### ✨ Features
+## 🌟 Features at a Glance
 
 - 🔢 **1–10 guessing range** with only **3 chances**
 - 🧠 Smart feedback with hints after each guess
@@ -29,17 +24,12 @@ Built with 💻 Python + `customtkinter`, and dipped in that **Y7X AMOLED sauce*
 
 ---
 
-### 🛠 Built Using
+## 🖥️ Installation
 
-| Tech             | Why?                       |
-|------------------|----------------------------|
-| `Python`         | Base language              |
-| `customtkinter`  | For that modern, dark UI   |
-
----
-
-### 🚀 Run it Locally
+> Python 3.9 or later required
 
 ```bash
-pip install customtkinter
+git clone https://github.com/Y7X-bit/NeuroGuess.git
+cd NeuroGuess
+pip install -r requirements.txt
 python NeuroGuess.py
